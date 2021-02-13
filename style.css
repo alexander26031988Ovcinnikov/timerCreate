@@ -1,0 +1,29 @@
+button {
+    border: none;
+  }
+  .timers-control button {
+    margin: 5px;
+  }
+  
+  .timer {
+    display: flex;
+    width: fit-content;
+    margin: 5px;
+    border: 2px solid #6c757d;
+    font-family : Basic example;
+  }
+  
+  .time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    font-family: monospace;
+    font-size: 16px;
+  }
+  
+  .clock {
+    display: flex;
+    align-items: center;
+    min-width: 110px;
+  }
